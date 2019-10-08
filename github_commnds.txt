@@ -1,0 +1,113 @@
+
+ls
+
+git clone https://www.github.com/hopemogale/ITRW322.git
+
+
+cd ITRW322
+
+git status
+
+ls
+
+notepad py_primer.py
+
+git status
+
+git add .
+
+git status
+
+touch hope.py 
+
+git status 
+
+git add .
+
+git status 
+
+
+git commit -m "Updated py_prime and created hope.py"
+
+
+
+
+git config --global user.email "useremail@email.com"
+git config --global user.name "username"
+
+
+git commit -m "Updated py_prime and created hope.py"
+
+git status
+
+git add py_Primer.py
+
+git status
+
+git commit -m "Added my_Sum to Py_primer"
+
+git status
+
+git push
+
+
+git clone https://github.com/hopemogale/cocacola.git
+
+
+ls
+
+cd cocacola
+
+touch helloword.py
+
+ls
+
+git add .
+
+git status
+
+git commit -m "Added helloworld file to cocacola"
+
+git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
